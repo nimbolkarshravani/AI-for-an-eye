@@ -1,0 +1,102 @@
+ID,Patient Age,Patient Sex,Left-Fundus,Right-Fundus,Left-Diagnostic Keywords,Right-Diagnostic Keywords,N,D,G,C,A,H,M,O
+81,66,Male,81_left.jpg,81_right.jpg,moderate non proliferative retinopathy，cataract,moderate non proliferative retinopathy，cataract,0,1,0,1,0,0,0,0
+477,65,Female,477_left.jpg,477_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+553,69,Female,553_left.jpg,553_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+560,74,Male,560_left.jpg,560_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+625,72,Female,625_left.jpg,625_right.jpg,cataract，suspected glaucoma,cataract，branch retinal vein occlusion,0,0,1,1,0,0,0,1
+726,60,Female,726_left.jpg,726_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+970,56,Female,970_left.jpg,970_right.jpg,cataract，moderate non proliferative retinopathy,cataract,0,1,0,1,0,0,0,0
+999,56,Female,999_left.jpg,999_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1102,56,Male,1102_left.jpg,1102_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1144,60,Male,1144_left.jpg,1144_right.jpg,cataract,cataract，moderate non proliferative retinopathy,0,1,0,1,0,0,0,0
+1415,81,Female,1415_left.jpg,1415_right.jpg,cataract,cataract，suspected glaucoma,0,0,1,1,0,0,0,0
+1456,81,Male,1456_left.jpg,1456_right.jpg,cataract，lens dust,lens dust，cataract,0,0,0,1,0,0,0,0
+1483,69,Female,1483_left.jpg,1483_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+1484,65,Female,1484_left.jpg,1484_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2052,62,Male,2052_left.jpg,2052_right.jpg,hypertensive retinopathy，cataract,hypertensive retinopathy，cataract,0,0,0,1,0,1,0,0
+2098,75,Female,2098_left.jpg,2098_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2101,62,Male,2101_left.jpg,2101_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2102,67,Female,2102_left.jpg,2102_right.jpg,laser spot，cataract,cataract，laser spot,0,0,0,1,0,0,0,1
+2103,61,Female,2103_left.jpg,2103_right.jpg,cataract，mild nonproliferative retinopathy,cataract,0,1,0,1,0,0,0,0
+2104,74,Male,2104_left.jpg,2104_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2105,76,Female,2105_left.jpg,2105_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2108,64,Female,2108_left.jpg,2108_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2109,82,Male,2109_left.jpg,2109_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2110,70,Female,2110_left.jpg,2110_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2113,52,Female,2113_left.jpg,2113_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2114,80,Female,2114_left.jpg,2114_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2116,81,Female,2116_left.jpg,2116_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2120,72,Female,2120_left.jpg,2120_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2122,85,Male,2122_left.jpg,2122_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2126,75,Male,2126_left.jpg,2126_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2127,70,Male,2127_left.jpg,2127_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2128,81,Female,2128_left.jpg,2128_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2129,73,Male,2129_left.jpg,2129_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2130,54,Male,2130_left.jpg,2130_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2133,63,Male,2133_left.jpg,2133_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2134,54,Female,2134_left.jpg,2134_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2135,71,Female,2135_left.jpg,2135_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2137,44,Female,2137_left.jpg,2137_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2138,79,Female,2138_left.jpg,2138_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2140,70,Male,2140_left.jpg,2140_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2142,75,Female,2142_left.jpg,2142_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2144,75,Male,2144_left.jpg,2144_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2146,87,Male,2146_left.jpg,2146_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2150,78,Male,2150_left.jpg,2150_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2151,51,Female,2151_left.jpg,2151_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2153,54,Male,2153_left.jpg,2153_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2155,72,Male,2155_left.jpg,2155_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2157,80,Female,2157_left.jpg,2157_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2158,61,Female,2158_left.jpg,2158_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2163,58,Male,2163_left.jpg,2163_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2164,67,Male,2164_left.jpg,2164_right.jpg,cataract，mild nonproliferative retinopathy,cataract,0,1,0,1,0,0,0,0
+2167,75,Female,2167_left.jpg,2167_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2168,64,Female,2168_left.jpg,2168_right.jpg,cataract,cataract，laser spot，moderate non proliferative retinopathy,0,1,0,1,0,0,0,1
+2169,42,Male,2169_left.jpg,2169_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2170,35,Male,2170_left.jpg,2170_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2176,82,Female,2176_left.jpg,2176_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2178,84,Male,2178_left.jpg,2178_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2179,70,Female,2179_left.jpg,2179_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2180,66,Female,2180_left.jpg,2180_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2181,79,Female,2181_left.jpg,2181_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2182,70,Male,2182_left.jpg,2182_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2183,47,Female,2183_left.jpg,2183_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2184,65,Female,2184_left.jpg,2184_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2189,81,Female,2189_left.jpg,2189_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2192,50,Female,2192_left.jpg,2192_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2194,50,Male,2194_left.jpg,2194_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2195,47,Female,2195_left.jpg,2195_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2198,69,Female,2198_left.jpg,2198_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2203,59,Female,2203_left.jpg,2203_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2206,65,Female,2206_left.jpg,2206_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2207,65,Male,2207_left.jpg,2207_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2209,80,Male,2209_left.jpg,2209_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2210,78,Female,2210_left.jpg,2210_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2211,80,Male,2211_left.jpg,2211_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2212,82,Male,2212_left.jpg,2212_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2213,83,Female,2213_left.jpg,2213_right.jpg,cataract，lens dust,cataract,0,0,0,1,0,0,0,0
+2214,75,Female,2214_left.jpg,2214_right.jpg,lens dust，cataract,lens dust，cataract,0,0,0,1,0,0,0,0
+2216,38,Male,2216_left.jpg,2216_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2217,85,Female,2217_left.jpg,2217_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2219,68,Female,2219_left.jpg,2219_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2221,71,Male,2221_left.jpg,2221_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2223,56,Male,2223_left.jpg,2223_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2225,57,Male,2225_left.jpg,2225_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2226,52,Female,2226_left.jpg,2226_right.jpg,cataract,cataract，moderate non proliferative retinopathy,0,1,0,1,0,0,0,0
+2227,62,Female,2227_left.jpg,2227_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2229,59,Female,2229_left.jpg,2229_right.jpg,cataract，lens dust,lens dust，cataract,0,0,0,1,0,0,0,0
+2230,60,Female,2230_left.jpg,2230_right.jpg,lens dust，cataract,lens dust，cataract,0,0,0,1,0,0,0,0
+2231,66,Female,2231_left.jpg,2231_right.jpg,lens dust，cataract,cataract，lens dust,0,0,0,1,0,0,0,0
+2232,75,Male,2232_left.jpg,2232_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2233,77,Female,2233_left.jpg,2233_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2234,66,Female,2234_left.jpg,2234_right.jpg,cataract,moderate non proliferative retinopathy，cataract,0,1,0,1,0,0,0,0
+2236,72,Female,2236_left.jpg,2236_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2239,46,Male,2239_left.jpg,2239_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2240,64,Male,2240_left.jpg,2240_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2242,63,Male,2242_left.jpg,2242_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2243,80,Male,2243_left.jpg,2243_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2244,76,Male,2244_left.jpg,2244_right.jpg,lens dust，cataract,cataract，lens dust,0,0,0,1,0,0,0,0
+2246,69,Male,2246_left.jpg,2246_right.jpg,cataract,cataract,0,0,0,1,0,0,0,0
+2247,73,Male,2247_left.jpg,2247_right.jpg,cataract,cataract，lens dust,0,0,0,1,0,0,0,0
+2248,74,Female,2248_left.jpg,2248_right.jpg,cataract，lens dust,cataract，lens dust,0,0,0,1,0,0,0,0
+2251,70,Male,2251_left.jpg,2251_right.jpg,lens dust，cataract,cataract，lens dust,0,0,0,1,0,0,0,0
